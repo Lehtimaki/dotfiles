@@ -1,0 +1,6 @@
+[submodule "alacritty/themes/hardhacker"]
+	path = alacritty/themes/hardhacker
+	url = https://github.com/hardhackerlabs/theme-alacritty.git
+[submodule "alacritty/themes/catppuccin"]
+	path = alacritty/themes/catppuccin
+	url = https://github.com/catppuccin/alacritty.git
