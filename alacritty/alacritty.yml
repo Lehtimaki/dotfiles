@@ -6,7 +6,7 @@ window:
     x: 10
     y: 10
   title: Alacritty
-  decorations: none
+  #  decorations: none
   dimensions:
     columns: 168
     lines: 48
