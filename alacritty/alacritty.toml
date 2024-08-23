@@ -1,0 +1,34 @@
+import = ["/Users/markus/.config/alacritty/themes/catppuccin/catppuccin-macchiato.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 16.0
+
+[font.bold]
+family = "MesloLGS NF"
+style = "Bold"
+
+[font.bold_italic]
+family = "MesloLGS NF"
+style = "Bold Italic"
+
+[font.italic]
+family = "MesloLGS NF"
+style = "Italic"
+
+[font.normal]
+family = "MesloLGS NF"
+style = "Regular"
+
+[window]
+title = "Alacritty"
+
+[window.dimensions]
+columns = 168
+lines = 48
+
+[window.padding]
+x = 10
+y = 10
