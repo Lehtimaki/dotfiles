@@ -1,5 +1,6 @@
-/iterm2
-/configstore
+/**/*
+!/nvim
+!/tmux
+!/alacritty
+!.editorconfig
 /nvim/plugin/packer_compiled.lua
-/mozilla
-/tmp
