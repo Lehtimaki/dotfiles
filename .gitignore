@@ -1,6 +1,7 @@
 /**/*
 !/nvim
+/nvim/plugin/packer_compiled.lua
 !/tmux
+/tmux/plugins/
 !/alacritty
 !.editorconfig
-/nvim/plugin/packer_compiled.lua
