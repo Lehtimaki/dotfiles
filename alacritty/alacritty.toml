@@ -30,5 +30,11 @@ columns = 168
 lines = 48
 
 [window.padding]
-x = 10
-y = 10
+x = 0
+y = 0
+
+[keyboard]
+bindings = [
+    { key = "Right", mods = "Alt", chars = "\u001BF" },
+    { key = "Left",  mods = "Alt", chars = "\u001BB" },
+]
